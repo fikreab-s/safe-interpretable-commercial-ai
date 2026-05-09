@@ -1,6 +1,9 @@
-# 🛡️ Safe & Interpretable Commercial AI
+# Responsible AI Framework for Commercial Deployment
 
-> Responsible AI framework for enterprise LLM deployments: bias detection, uncertainty quantification, interpretability, and compliance guardrails.
+> Safety and interpretability framework for enterprise AI: conformal prediction for uncertainty quantification, fairness auditing, and output validation for pharma-regulated applications.
+>
+> **Context:** Pharma commercial AI outputs face regulatory scrutiny. Conformal prediction provides distribution-free coverage guarantees; the fairness audit catches demographic bias before models reach production.
+
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
