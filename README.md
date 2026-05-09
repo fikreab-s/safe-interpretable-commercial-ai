@@ -70,3 +70,9 @@ Commercial analytics in regulated industries operates under strict compliance:
 
 ## License
 MIT
+
+## 📸 Visual Tour
+
+![safety metrics](viz/safety_metrics.png)
+
+---
