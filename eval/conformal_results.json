@@ -1,0 +1,30 @@
+[
+  {
+    "alpha": 0.05,
+    "coverage": 0.98,
+    "target_coverage": 0.95,
+    "avg_set_size": 3.0,
+    "calibration_gap": 0.03
+  },
+  {
+    "alpha": 0.1,
+    "coverage": 0.905,
+    "target_coverage": 0.9,
+    "avg_set_size": 3.06,
+    "calibration_gap": 0.005
+  },
+  {
+    "alpha": 0.15,
+    "coverage": 0.905,
+    "target_coverage": 0.85,
+    "avg_set_size": 3.02,
+    "calibration_gap": 0.055
+  },
+  {
+    "alpha": 0.2,
+    "coverage": 0.815,
+    "target_coverage": 0.8,
+    "avg_set_size": 3.02,
+    "calibration_gap": 0.015
+  }
+]
